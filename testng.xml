@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/xuebb/muke/muke">
+        <classes>
+            <class name="com.course.chapter5.BasicAnnotation">
+                <methods>
+                    <include name="testCase1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "suiteName">
+    <test name = "all">
+        <classes>
+            <class name="com.course.chapter5.groups.GroupsOnClass1"/>
+            <class name="com.course.chapter5.groups.GroupsOnClass2"/>
+            <class name="com.course.chapter5.groups.GroupsOnClass3"/>
+        </classes>
+    </test>
+
+    <test name = "onlyRunStu">
+        <!--添加groups标签实现类分组 -->
+        <groups>
+            <run>
+                <include name="stu"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.course.chapter5.groups.GroupsOnClass1"/>
+            <class name="com.course.chapter5.groups.GroupsOnClass2"/>
+            <class name="com.course.chapter5.groups.GroupsOnClass3"/>
+        </classes>
+    </test>
+</suite>

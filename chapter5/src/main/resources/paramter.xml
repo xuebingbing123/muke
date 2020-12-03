@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="parameter">
+    <test name ="test">
+        <classes>
+            <parameter name="name" value="zhangsan"/>
+            <parameter name="age" value="15"/>
+            <class name ="com.course.chapter5.paramter.ParamterTest"/>
+        </classes>
+
+    </test>
+</suite>
