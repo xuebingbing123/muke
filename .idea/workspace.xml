@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
@@ -235,6 +221,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -290,14 +281,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988583009" />
+    <state x="513" y="65" key="RollbackChangesDialog" timestamp="1606989782217">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="65" key="RollbackChangesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606989782217" />
     <state x="75" y="5" width="1183" height="708" key="SettingsEditor" timestamp="1606988324535">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="75" y="5" width="1183" height="708" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988324535" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606988642160">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606989802722">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988642160" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606989802722" />
     <state x="57" y="24" key="new project wizard" timestamp="1606890541414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
