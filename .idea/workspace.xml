@@ -8,7 +8,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6426ae00-5506-44bb-96b0-2882530945f5" name="Default Changelist" comment="chapter5提交" />
+    <list default="true" id="6426ae00-5506-44bb-96b0-2882530945f5" name="Default Changelist" comment="chapter5提交">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/chapter5/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/chapter5/BasicAnnotation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606988522606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chapter5提交">
+      <created>1606990255124</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606990255124</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,22 +276,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988422916" />
-    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1606988583009">
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1606990382475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988583009" />
-    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1606988583009">
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990382475" />
+    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1606990382475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988583009" />
-    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1606988583008">
+    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990382475" />
+    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1606990382474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988583008" />
-    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1606988583009">
+    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990382474" />
+    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1606990382475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988583009" />
+    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990382475" />
     <state x="513" y="65" key="RollbackChangesDialog" timestamp="1606989782217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -289,10 +300,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="75" y="5" width="1183" height="708" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988324535" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606989802722">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606990703413">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606989802722" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990703413" />
     <state x="57" y="24" key="new project wizard" timestamp="1606890541414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
