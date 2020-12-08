@@ -9,9 +9,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6426ae00-5506-44bb-96b0-2882530945f5" name="Default Changelist" comment="chapter5提交">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/startup1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/基本操作说明" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/chapter6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/src/main/java/com/test/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/src/main/java/com/test/demo/ExtentTestNGIReporterListenerOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/src/main/java/com/test/demo/TestMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/target/classes/com/test/demo/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/target/classes/com/test/demo/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/target/classes/com/test/demo/ExtentTestNGIReporterListenerOld$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/target/classes/com/test/demo/ExtentTestNGIReporterListenerOld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/target/classes/com/test/demo/TestMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/target/classes/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/src/main/java/com/course/chapter5/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/src/main/java/com/course/chapter5/BasicAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/target/classes/com/course/chapter5/BasicAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/target/classes/com/course/chapter5/BasicAnnotation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,15 +77,19 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1l5aCp8jHKwQHRLwoncaBfJVgYp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter7" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -60,11 +98,16 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xuebb\muke\muke\chapter5" />
       <recent name="C:\xuebb\muke\muke" />
       <recent name="C:\xuebb\muke\muke\chapter5\src\main\resources" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xuebb\muke\muke\Chapter7" />
+      <recent name="C:\xuebb\muke\muke\chapter6\src\main\java\com\test\demo" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.TimeOutTest">
+  <component name="RunManager" selected="TestNG.C:/xuebb/muke/muke/chapter6/src/main/resources/testng.xml">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="muke" />
       <option name="VM_PARAMETERS" />
@@ -112,9 +155,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/xuebb/muke/muke/chapter5/src/main/resources/MultiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/xuebb/muke/muke/chapter5/src/main/resources/paramter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="chapter5" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/chapter5/src/main/resources/MultiThread.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/chapter5/src/main/resources/paramter.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -122,52 +165,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProviderTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="chapter5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.chapter5.paramter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.chapter5.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.course.chapter5.paramter.DataProviderTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
+    <configuration name="C:/xuebb/muke/muke/chapter6/src/main/resources/testng-bg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter6" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/chapter6/src/main/resources/testng-bg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadOnAnnotion.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="chapter5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.chapter5.multiThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.chapter5.multiThread" />
-      <option name="MAIN_CLASS_NAME" value="com.course.chapter5.multiThread.MultiThreadOnAnnotion" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+    <configuration name="C:/xuebb/muke/muke/chapter6/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter6" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/chapter6/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="chapter5" />
+    <configuration name="TestMethods" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.chapter5.*" />
+          <option name="PATTERN" value="com.test.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.chapter5" />
-      <option name="MAIN_CLASS_NAME" value="com.course.chapter5.TimeOutTest" />
+      <option name="PACKAGE_NAME" value="com.test.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.test.demo.TestMethods" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -175,17 +202,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeOutTest.sucTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="chapter5" />
+    <configuration name="TestMethods.logDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.chapter5.*" />
+          <option name="PATTERN" value="com.test.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.chapter5" />
-      <option name="MAIN_CLASS_NAME" value="com.course.chapter5.TimeOutTest" />
-      <option name="METHOD_NAME" value="sucTest" />
+      <option name="PACKAGE_NAME" value="com.test.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.test.demo.TestMethods" />
+      <option name="METHOD_NAME" value="logDemo" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -195,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TimeOutTest" />
-        <item itemvalue="TestNG.TimeOutTest.sucTest" />
-        <item itemvalue="TestNG.C:/xuebb/muke/muke/chapter5/src/main/resources/MultiThread.xml" />
-        <item itemvalue="TestNG.MultiThreadOnAnnotion.test" />
-        <item itemvalue="TestNG.DataProviderTest.test2" />
+        <item itemvalue="TestNG.C:/xuebb/muke/muke/chapter6/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.C:/xuebb/muke/muke/chapter6/src/main/resources/testng-bg.xml" />
+        <item itemvalue="TestNG.TestMethods.logDemo" />
+        <item itemvalue="TestNG.TestMethods" />
+        <item itemvalue="TestNG.C:/xuebb/muke/muke/chapter5/src/main/resources/paramter.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606990255124</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chapter5提交">
+      <created>1606991190487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606991190487</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +281,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/.." />
@@ -264,57 +299,69 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606892270864" />
-    <state x="402" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606979358724">
+    <state x="402" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607408107652">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606979358724" />
-    <state x="437" y="209" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606894082093">
+    <state x="402" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607408107652" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1607328762047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="437" y="209" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606894082093" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607328762047" />
+    <state x="437" y="209" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607336463497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="209" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607336463497" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1606988422916">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988422916" />
-    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1606990382475">
+    <state width="1323" height="129" key="GridCell.Tab.0.bottom" timestamp="1607409052927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990382475" />
-    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1606990382475">
+    <state width="1323" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607409052927" />
+    <state width="1323" height="129" key="GridCell.Tab.0.center" timestamp="1607409052927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990382475" />
-    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1606990382474">
+    <state width="1323" height="129" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607409052927" />
+    <state width="1323" height="129" key="GridCell.Tab.0.left" timestamp="1607409052927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990382474" />
-    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1606990382475">
+    <state width="1323" height="129" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607409052927" />
+    <state width="1323" height="129" key="GridCell.Tab.0.right" timestamp="1607409052927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990382475" />
+    <state width="1323" height="129" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607409052927" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1607328982605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607328982605" />
     <state x="513" y="65" key="RollbackChangesDialog" timestamp="1606989782217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="513" y="65" key="RollbackChangesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606989782217" />
-    <state x="75" y="5" width="1183" height="708" key="SettingsEditor" timestamp="1606988324535">
+    <state x="105" y="12" width="1183" height="708" key="SettingsEditor" timestamp="1607409773687">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="75" y="5" width="1183" height="708" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606988324535" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1606990703413">
+    <state x="105" y="12" width="1183" height="708" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607409773687" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1607409596671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606990703413" />
-    <state x="57" y="24" key="new project wizard" timestamp="1606890541414">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607409596671" />
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606991557312">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="57" y="24" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606890541414" />
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606991557312" />
+    <state x="115" y="45" key="new project wizard" timestamp="1607407992722">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="45" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607407992722" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1606900822717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606900822717" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606980087866">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1607409339738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1606980087866" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1607409339738" />
   </component>
 </project>
